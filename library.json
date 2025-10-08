@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "platformio/framework-arduinoespressif32": "*"
+    "platformio/framework-arduinoespressif32": "3.3.0"
   },
   "homepage": "https://github.com/fonkle/Arduino_GFX",
   "frameworks": "arduino",
