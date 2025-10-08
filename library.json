@@ -19,6 +19,6 @@
   "platforms": "*",
   "build": {
     "srcDir": "src",
-    "includeDir": "."
+    "includeDir": "src"
   }
 }
