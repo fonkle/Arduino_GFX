@@ -1,0 +1,24 @@
+{
+  "name": "Arduino_GFX",
+  "version": "1.0.0",
+  "description": "Arduino GFX library for various displays",
+  "keywords": "display, gfx, lcd, oled",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fonkle/Arduino_GFX.git"
+  },
+  "authors": [
+    {
+      "name": "Original Author: Moon On Our Nation",
+      "email": "moononournation@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fonkle/Arduino_GFX",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "build": {
+    "srcDir": ".",
+    "includeDir": "."
+  }
+}
