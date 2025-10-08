@@ -22,6 +22,6 @@
   "platforms": "*",
   "build": {
     "srcDir": "src",
-    "includeDir": "src"
+    "includeDir": "."
   }
 }
