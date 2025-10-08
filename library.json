@@ -14,6 +14,9 @@
     }
   ],
   "license": "MIT",
+  "dependencies": {
+    "espressif/arduino-esp32": "^2.0.0"
+  },
   "homepage": "https://github.com/fonkle/Arduino_GFX",
   "frameworks": "arduino",
   "platforms": "*",
